@@ -30,8 +30,8 @@ npm install
 Run node index.js and follow the prompts.
 
 ## Credits
-Vincent Veltri
 Miryan Christopher
+
 
 ## License
 This project is licensed under the MIT license. For more information, refer to [License](https://www.boost.org/LICENSE_1_0.txt)
@@ -45,7 +45,9 @@ This project is licensed under the MIT license. For more information, refer to [
 
 
 ## How to Contribute
+Fork the repository, create a branch, and submit a pull request.
 
 
 ## Tests
+npm test
 
